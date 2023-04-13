@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice app</string>
+    <string name="button">Button</string>
+    <string name="_1">1</string>
+    <string name="todo">TODO</string>
+    <string name="roll">Roll</string>
+    <string name="by_mugunthan">By Mugunthan</string>
+</resources>
